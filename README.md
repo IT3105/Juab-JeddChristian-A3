@@ -8,7 +8,6 @@ A simple and minimalist Flutter application for tracking project tasks.
 2. Mark tasks as "Not Started", "In Progress", or "Finished"
 3. Drag and drop tasks between columns
 4. Edit and delete tasks
-5. Responsive and clean design
 
 ## Getting Started
 
