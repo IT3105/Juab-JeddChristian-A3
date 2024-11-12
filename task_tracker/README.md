@@ -16,7 +16,7 @@ A simple and minimalist Flutter application for tracking project tasks.
 
 2. Clone the repository:
    ```
-   git clone 
+   git clone https://github.com/IT3105/Juab-JeddChristian-A3.git
    ```
 
 3. Navigate to the project directory:
